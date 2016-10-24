@@ -1,0 +1,10 @@
+<project name="agenda"  default="atualiza-dependencias">
+	
+	<target name="atualiza-dependencias">
+	
+	
+	</target>
+
+	
+</project>
+
